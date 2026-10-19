@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Developer Portfolio (React + Vite)
 
 ## Run locally
@@ -30,3 +31,7 @@ Without these values the form validates, then shows a fallback message with your
 - [ ] Test at 360px, 768px, 1280px; Tab through everything with the keyboard
 - [ ] Modal closes with Esc; Lighthouse accessibility score 90+
 - [ ] No console errors in the browser
+=======
+# Personal-Portfolio
+portfolio to showcase my skills and project.
+>>>>>>> 30988a2f2e9092bff6ecfbeabd0d0a79513c6e5c
